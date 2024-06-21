@@ -1,0 +1,22 @@
+1.touch:
+touch file1.
+2.ls:
+file1  file1.txt  file2.txt  file5  test.
+3.cat:
+cat file5.
+4.cp:
+cp file1 file5.
+5.mkdir:
+mkdir rajat.
+6.pwd:
+/home/cg/root/6675407f639ea.
+7.rm -rf file1.txt:
+rm -rf file1.txt
+
+export "PS1=$ "
+
+$ ls
+ls
+
+file2.txt  file5  rajat.
+8.
